@@ -1,0 +1,13 @@
+C:\Users\RolfM\Documents\OOPOpgave\EksamensOpgave\EksamensOpgave\bin\Debug\netcoreapp3.1\EksamensOpgave.exe
+C:\Users\RolfM\Documents\OOPOpgave\EksamensOpgave\EksamensOpgave\bin\Debug\netcoreapp3.1\EksamensOpgave.deps.json
+C:\Users\RolfM\Documents\OOPOpgave\EksamensOpgave\EksamensOpgave\bin\Debug\netcoreapp3.1\EksamensOpgave.runtimeconfig.json
+C:\Users\RolfM\Documents\OOPOpgave\EksamensOpgave\EksamensOpgave\bin\Debug\netcoreapp3.1\EksamensOpgave.runtimeconfig.dev.json
+C:\Users\RolfM\Documents\OOPOpgave\EksamensOpgave\EksamensOpgave\bin\Debug\netcoreapp3.1\EksamensOpgave.dll
+C:\Users\RolfM\Documents\OOPOpgave\EksamensOpgave\EksamensOpgave\bin\Debug\netcoreapp3.1\EksamensOpgave.pdb
+C:\Users\RolfM\Documents\OOPOpgave\EksamensOpgave\EksamensOpgave\obj\Debug\netcoreapp3.1\EksamensOpgave.csprojAssemblyReference.cache
+C:\Users\RolfM\Documents\OOPOpgave\EksamensOpgave\EksamensOpgave\obj\Debug\netcoreapp3.1\EksamensOpgave.AssemblyInfoInputs.cache
+C:\Users\RolfM\Documents\OOPOpgave\EksamensOpgave\EksamensOpgave\obj\Debug\netcoreapp3.1\EksamensOpgave.AssemblyInfo.cs
+C:\Users\RolfM\Documents\OOPOpgave\EksamensOpgave\EksamensOpgave\obj\Debug\netcoreapp3.1\EksamensOpgave.csproj.CoreCompileInputs.cache
+C:\Users\RolfM\Documents\OOPOpgave\EksamensOpgave\EksamensOpgave\obj\Debug\netcoreapp3.1\EksamensOpgave.dll
+C:\Users\RolfM\Documents\OOPOpgave\EksamensOpgave\EksamensOpgave\obj\Debug\netcoreapp3.1\EksamensOpgave.pdb
+C:\Users\RolfM\Documents\OOPOpgave\EksamensOpgave\EksamensOpgave\obj\Debug\netcoreapp3.1\EksamensOpgave.genruntimeconfig.cache
